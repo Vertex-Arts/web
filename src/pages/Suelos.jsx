@@ -1,1 +1,1 @@
-// Página de Suelos
+// Contenido completo de la página Suelos

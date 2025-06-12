@@ -1,1 +1,1 @@
-// Página de VertexArts
+// Contenido completo de la página VertexArts

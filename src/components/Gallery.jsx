@@ -1,0 +1,1 @@
+// Componente para mostrar imágenes de cada sección

@@ -1,1 +1,1 @@
-// Página de Encimeras
+// Contenido completo de la página Encimeras

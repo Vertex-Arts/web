@@ -1,1 +1,1 @@
-// Página de Mobiliario
+// Contenido completo de la página Mobiliario

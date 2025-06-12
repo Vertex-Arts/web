@@ -1,1 +1,1 @@
-// Página de Contacto
+// Contenido completo de la página Contacto

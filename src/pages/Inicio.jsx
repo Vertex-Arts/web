@@ -1,1 +1,1 @@
-// Página de Inicio
+// Contenido completo de la página Inicio

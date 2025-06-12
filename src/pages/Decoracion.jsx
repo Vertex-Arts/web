@@ -1,1 +1,1 @@
-// Página de Decoracion
+// Contenido completo de la página Decoracion
