@@ -1,1 +1,1 @@
-// Menú de navegación con submenús y rutas
+export default () => "Nav";

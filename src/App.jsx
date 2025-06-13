@@ -1,1 +1,1 @@
-// App principal de Vertex Arts
+console.log("Routing setup");

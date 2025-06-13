@@ -1,1 +1,1 @@
-// Contenido completo de la página VertexArts
+export default () => "Vertex Arts info";

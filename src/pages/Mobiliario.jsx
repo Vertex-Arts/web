@@ -1,1 +1,1 @@
-// Contenido completo de la página Mobiliario
+export default () => "Mobiliario page";

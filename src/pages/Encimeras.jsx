@@ -1,1 +1,1 @@
-// Contenido completo de la página Encimeras
+export default () => "Encimeras page with sections";

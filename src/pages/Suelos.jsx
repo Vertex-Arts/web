@@ -1,1 +1,1 @@
-// Contenido completo de la página Suelos
+export default () => "Suelos page with sections";

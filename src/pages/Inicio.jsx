@@ -1,1 +1,1 @@
-// Contenido completo de la página Inicio
+export default () => "Inicio page";

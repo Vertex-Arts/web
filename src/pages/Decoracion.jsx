@@ -1,1 +1,1 @@
-// Contenido completo de la página Decoracion
+export default () => "Decoracion page";

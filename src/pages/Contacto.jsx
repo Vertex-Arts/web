@@ -1,1 +1,1 @@
-// Contenido completo de la página Contacto
+export default () => "Formulario page";
